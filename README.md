@@ -10,7 +10,7 @@
 
 ### Usage examples
 
-```
+```cpp
 #include "mem_manage.h"
 #define BLOCK 4096
 
