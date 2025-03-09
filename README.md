@@ -1,10 +1,11 @@
-##Memory Management - Bitmap Allocation
+## Memory Management - Bitmap Allocation
 
 - Involves an array of bits which keeps tracks of Memory is free or allocated.
 - Each Memory is broken down into various blocks and each bit in the bitmap represents
   one of these blocks.
 
-###Image example
+### Image example
+
 ![Bitmap Allocation image](assets/bmp.png)
 
 ### Usage examples
